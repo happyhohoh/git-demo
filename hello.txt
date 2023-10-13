@@ -16,4 +16,4 @@ hello git, I am coming in!
 hello git, I am coming in!
 hello git, I am coming in!
 hello git, I am coming in! master test
-hello git, I am coming in!
+hello git, I am coming in! hot-fix test
